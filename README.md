@@ -7,8 +7,8 @@ Code for the ICLR2026 paper: [Beyond Simple Graphs: Neural Multi-Objective Routi
 <div style="text-align: center;">
     <table style="margin: auto;">
         <tr>
-            <td><img src="figures/gmseb.png" style="border: 2px solid black;" width="250"/></td>
-            <td><img src="figures/gmsdh.png" style="border: 2px solid black;" width="300"/></td>
+            <td><img src="figures/gmseb.png" style="border: 0px solid white;" width="250"/></td>
+            <td><img src="figures/gmsdh.png" style="border: 0px solid white;" width="300"/></td>
         </tr>
     </table>
 </div>
@@ -26,7 +26,7 @@ Test data from the paper is available in each folder.
 ## Reference
 
 If you find our work useful, please consider citing our paper:
-
+```
 @inproceedings{rydin2026beyond,
   title={Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs},
   author={Filip Rydin and Attila Lischka and Jiaming Wu and Morteza Haghir Chehreghani and Balázs Kulcsár},
@@ -34,6 +34,7 @@ If you find our work useful, please consider citing our paper:
   year={2026},
   url={https://openreview.net/forum?id=55laGcPNZZ}
 }
+```
 
 ## Acknowledgements
 
