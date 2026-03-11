@@ -19,7 +19,9 @@ The code is structured around model (GMS-DH or GMS-EB) and problem (MOTSP, MOCVR
 
 To train models, use the train.py script and to test use test.py. Parameters can be specified in these files. 
 
-Some pre-trained models are available for each problem and distribution. More can be provided upon request to the authors. To run these, use the respective test_\*.py scripts. To train them from scratch, use the train_\*.py scripts.
+Some pre-trained models are available for each problem and distribution. To run these, use the respective test_\*.py scripts. To train them from scratch, use the train_\*.py scripts.
+
+More pre-trained models are available on [Hugging Face](https://huggingface.co/filiprydin/gms). Even more can be made available upon request. 
 
 Test data from the paper is available in each folder. 
 
